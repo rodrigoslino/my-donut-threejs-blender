@@ -4,7 +4,7 @@ My **Donut Threejs Blender** is a React app using Vite. It gives you a simple 3D
 
 ## Technologies
 
-<p align="center">
+<p>
     <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
     &nbsp;
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
@@ -22,6 +22,22 @@ Requires node >= 16
 yarn
 yarn dev
 ```
+
+## Update the 3D donut design
+
+1. Download [Blender](https://www.blender.org/)
+2. Open the /public/donut.blend file in Blender
+3. Enjoy :)
+
+## Live Example
+
+[Live Demo](https://my-donut-threejs-blender.vercel.app/)
+
+
+
+https://user-images.githubusercontent.com/24231369/219239196-b7dc184a-a7f1-402d-a312-5dfc31d55d31.mov
+
+
 
 ## Context
 
