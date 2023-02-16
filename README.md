@@ -29,6 +29,9 @@ yarn dev
 2. Open the `/public/donut.blend` file in Blender
 3. Enjoy :)
 
+![image](https://user-images.githubusercontent.com/24231369/219242446-bb96dec9-8a8a-4e4e-b05d-6760604348aa.png)
+
+
 ## Live Example
 
 [Live Demo](https://my-donut-threejs-blender.vercel.app/)
