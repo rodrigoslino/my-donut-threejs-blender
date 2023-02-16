@@ -25,7 +25,7 @@ yarn dev
 
 ## Update the 3D donut design
 
-1. Download [Blender](https://www.blender.org/)
+1. Download [Blender](https://www.blender.org/) 3.4.1
 2. Open the `/public/donut.blend` file in Blender
 3. Enjoy :)
 
